@@ -1,0 +1,67 @@
+body{
+    text-align: center;
+    font-family: fantasy;
+    background-color: white;
+    background-image: url("grupopin.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+h3{
+
+    font-family: Courier;
+    font-size: 50px;
+    font-style: normal;
+}
+h1{
+    font-size: 70px;
+    text-shadow: 2px 2px 2px cadetblue;
+}
+p{
+
+    font-family: Cambria;
+    font-size: large;
+    font-style: normal;
+}
+
+/*menu
+ul {
+    font-family: Courier;
+    margin: 0;
+    padding: 0;
+    width: 7%;
+    background-color: white;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+}
+li a {
+    display: block;
+    color: #252525;
+    padding: 8px 16px;
+}
+li a.active {
+    background-color: #82acd6;
+    color: white;
+}
+li a:hover:not(.active) {
+    background-color: #82acd6;
+    color: white;
+}
+*/
+
+/*gif*/
+#pingif{
+    width: 100px;
+}
+/*fotos de pinguinos*/
+#treping, #treping1{
+    width: 350px;
+}
+#encabezado{
+    width: 200%;
+    height: 200%;
+
+}
+
+
